@@ -3,6 +3,8 @@
 ## About
 Cat Invaders is a silly parody of the 1978 arcade classic [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) (created by Tomohiro Nishikado) that uses the internet meme icon "Doge." The goal of the game is to defeat waves of descending angry cats with tennis balls to earn as many points as possible.
 
+<img src="https://i.ytimg.com/vi/Yj7ja6BANLM/maxresdefault.jpg" width="600" height="300"/>
+
 Currenly only one tennis ball can be released at a time. Moreover, only six cats are on the screen at once.
 
 ## How to Play
