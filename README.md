@@ -3,11 +3,16 @@
 ## About
 Cat Invaders is a silly parody of the 1978 arcade classic [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) (created by Tomohiro Nishikado) that uses the internet meme icon "Doge." The goal of the game is to defeat waves of descending angry cats with tennis balls to earn as many points as possible.
 
+<p align="center">
 <img src="https://i.ytimg.com/vi/Yj7ja6BANLM/maxresdefault.jpg" width="600" height="300"/>
+ </p>
 
 Currenly only one tennis ball can be released at a time. Moreover, only six cats are on the screen at once.
 
 ## How to Play
+You can control Doge by using the left and right arrow keys <kbd>&leftarrow;</kbd> / <kbd>&rightarrow;</kbd>, you can also fire tennis balls by using the <kbd>space</kbd> key.
+
+## Installation
 - If you don't have [Python](https://www.python.org/downloads/) or [Pygame](http://www.pygame.org/download.shtml) installed, you can simply double click the .exe file to play the game.
   **Note:** _The .exe file needs to stay in the same directory as the sounds, images, and font folders._
 
