@@ -13,8 +13,9 @@ Currenly only one tennis ball can be released at a time. Moreover, only six cats
 You can control Doge by using the left and right arrow keys <kbd>&leftarrow;</kbd> / <kbd>&rightarrow;</kbd>, you can also fire tennis balls by using the <kbd>space</kbd> key.
 
 ## Installation
-- If you don't have [Python](https://www.python.org/downloads/) or [Pygame](http://www.pygame.org/download.shtml) installed, you can simply double click the .exe file to play the game.
-  **Note:** _The .exe file needs to stay in the same directory as the sounds, images, and font folders._
+Required:
+- [Python](https://www.python.org/downloads/)
+- [Pygame](http://www.pygame.org/download.shtml)
 
 - If you have the correct version of Python and Pygame installed, you can run the program in the command prompt / terminal.
 
